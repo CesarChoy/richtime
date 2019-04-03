@@ -8,4 +8,4 @@
 
 4.下载项目为zzy1.0.zip
 
-5.逻辑图、结构图详情为https://mp.csdn.net/postedit/89000466
+5.逻辑图、结构图详情为https://blog.csdn.net/weixin_42687074/article/details/89000466
