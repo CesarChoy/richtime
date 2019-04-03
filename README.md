@@ -5,3 +5,5 @@
 2.使用了 redis、elasticsearch、mysql、rabbitmq、
 
 3.此版本为2.0版本，可单机上部署使用，我们的项目是基于此版本的3.0版本在云平台上运行。
+
+4.下载项目为zzy1.0.zip
